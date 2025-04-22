@@ -1,4 +1,3 @@
-!--
 -- Eğer zaten yüklenmişse çık
 if getgenv().duckLoaderLoaded then return end
 getgenv().duckLoaderLoaded = true
