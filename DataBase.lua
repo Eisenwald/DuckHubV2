@@ -1,3 +1,4 @@
+
 local a = game.ReplicatedStorage.Shared.Remotes:WaitForChild("AntiCheat")
 local b = "Check"
 
